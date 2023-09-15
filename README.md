@@ -1,27 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Code&weight=500&size=20&duration=2000&pause=1500&color=ed3b44&width=800&height=70&lines=HI!+MY+NAME+IS+ANTONIO%2C+AND+THIS+IS+MY+GITHUB+PAGE!)](https://git.io/typing-svg)
+
+### IN BRIEF
 I am a Junior Web Developer who has been studying Computer Science for over a year. My other skills include over 10 years of experience in customer-service, team-working, problem-solving. I am interested in both Front-End and Back-End positions, and I am willing to relocate for the right opportunity anywhere whithin the EU.
 
-C
-🔗 Il mio LinkedIn: [here](https://www.linkedin.com/in/antonio-vallerga-2612a468/)
+### SKILLS
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,react,redux,discord,github,java,spring,postgres,python,mongodb,vscode,eclipse,github,linkedin,postman,git,)](https://skillicons.dev)
 
-😼 La mia pagina GitHub: [here](https://github.com/Vallerga)
+### CONTACT
+🔗 Il mio LinkedIn: [here](https://www.linkedin.com/in/antonio-vallerga-2612a468/)
 
 🍳 Per visitare il mio portafoglio digitale: [here](https://portfolio-git-master-vallerga.vercel.app/)
 
-👨‍💻 Per accedere alla parte Front-End potete liberamente consultare: [repository Capstone Project Front-End](https://github.com/Vallerga/Capstone_Project_FE.git)
+📬 Mail: antoniovallerga85@gmail.com
 
-[here](http://www.w3.org/2000/svg)
-
-
-**Vallerga/Vallerga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 you can download my resume [here](https://1drv.ms/b/s!AuK5vWX_9zHzva04pa7bNGs6vlkUpQ?e=xs0DtY)
