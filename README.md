@@ -7,9 +7,9 @@ I am a Junior Web Developer who has been studying Computer Science for over a ye
 
 --------------------------------------
 ### CONTACT
-🔗 Il mio LinkedIn: [here](https://www.linkedin.com/in/antonio-vallerga-2612a468/)
+🔗 My LinkedIn: [here](https://www.linkedin.com/in/antonio-vallerga-2612a468/)
 
-🍳 Per visitare il mio portafoglio digitale: [here](https://portfolio-git-master-vallerga.vercel.app/)
+🍳 You can visit my portfolio: [here](https://portfolio-git-master-vallerga.vercel.app/)
 
 📬 Mail: antoniovallerga85@gmail.com
 
