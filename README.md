@@ -13,4 +13,4 @@ I am a Junior Web Developer who has been studying Computer Science for over a ye
 
 📬 Mail: antoniovallerga85@gmail.com
 
-💾 you can download my resume [here](https://1drv.ms/b/s!AuK5vWX_9zHzva04pa7bNGs6vlkUpQ?e=xs0DtY)
+💾 My resume [here](https://1drv.ms/b/s!AuK5vWX_9zHzva04pa7bNGs6vlkUpQ?e=xs0DtY)
