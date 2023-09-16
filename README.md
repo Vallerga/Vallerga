@@ -6,7 +6,7 @@ I am a Junior Web Developer who has been studying Computer Science for over a ye
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,react,redux,discord,github,java,spring,postgres,python,mongodb,vscode,eclipse,github,linkedin,postman,git,)](https://skillicons.dev)
 
 --------------------------------------
-### CONTACT
+### CONTACTS
 🔗 My LinkedIn [here](https://www.linkedin.com/in/antonio-vallerga-2612a468/)
 
 🍳 You can visit my portfolio [here](https://portfolio-git-master-vallerga.vercel.app/)
